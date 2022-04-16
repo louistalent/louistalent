@@ -4,9 +4,9 @@ I am a Senior Full-Stack developer.
 I have over 2 years of experience in web & blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
-broad yet experienced skillset. Intuitive problem-solving skills and proficient in front and
+broad yet experienced skills. Intuitive problem-solving skills and proficient in front and
 back-end development, mobile app development, system and application security, auditing
-and project management and blockchain technology.
+and project management and game development and blockchain technology.
 
 Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 
