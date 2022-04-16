@@ -13,7 +13,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
 
 - 🌱 Development for a new world with me
-- 👻 I’m looking for <span color="green">Client</span> to work with <span color="red">Blockchain</span> and <span color="red">web</span> <span color="red">Unity3D</span>
+- 👻 I’m looking for <span style="color:green">Client</span> to work with <span style="color:red">Blockchain</span> and <span style="color:red">web</span> <span style="color:red">Unity3D</span>
 - 💬 Ask me about web and blockchain and Unity3D development
 - 😄 Blockchain is my best skill
 - 👯‍♀️ Let's work with me.
