@@ -10,10 +10,10 @@ and project management and game development and blockchain technology.
 
 Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
 <div style="display:flex">
-    <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
-    My skype: live:.cid.57323f23b950525a
-    My Telegram1: https://t.me/bestblockchaindevelop
-    My Gmail:louistalent0123@gmail.com
+    <img align="left" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
+    <h3 align="right">My skype: live:.cid.57323f23b950525a</h3>
+    <h3 align="right">My Telegram1: https://t.me/bestblockchaindevelop</h3>
+    <h3 align="right">My Gmail:louistalent0123@gmail.com</h3>
 </div>
 <br/>
 
