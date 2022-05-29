@@ -9,6 +9,9 @@ back-end development, mobile app development, system and application security, a
 and project management and game development and blockchain technology.
 
 Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
+
+#### Work Together
+
 <div style="display:flex">
     <img align="left" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
     <h3 align="left" style="color:red">My skype : live:.cid.57323f23b950525a</h3>
@@ -17,6 +20,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 </div>
 <br/>
 
+<hr/>
 - 🌱 Development for a new world with me
 - 👻 I’m looking for <span style="color:green">Client</span> to work with <span style="color:red">Blockchain</span> and <span style="color:red">web</span> <span style="color:red">Unity3D</span>
 - 💬 Ask me about web and blockchain and Unity3D development
