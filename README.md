@@ -9,8 +9,13 @@ back-end development, mobile app development, system and application security, a
 and project management and game development and blockchain technology.
 
 Nowadays I passionate about blockchain technologies so that I'm mainly focusing on the Defi development stack.
-
-<img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
+<div style="display:flex">
+    <img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
+    My skype: live:.cid.57323f23b950525a
+    My Telegram1: https://t.me/bestblockchaindevelop
+    My Gmail:louistalent0123@gmail.com
+</div>
+<br/>
 
 - 🌱 Development for a new world with me
 - 👻 I’m looking for <span style="color:green">Client</span> to work with <span style="color:red">Blockchain</span> and <span style="color:red">web</span> <span style="color:red">Unity3D</span>
