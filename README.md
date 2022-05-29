@@ -14,13 +14,12 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 <div style="display:flex">
     <img align="left" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
-    <h3 align="left" style="color:red">My skype : live:.cid.57323f23b950525a</h3>
-    <h3 align="left" style="color:red">My Telegram1 : https://t.me/bestblockchaindevelop</h3>
-    <h3 align="left" style="color:red">My Gmail : louistalent0123@gmail.com</h3>
+    <h3 style="color:red">My skype : live:.cid.57323f23b950525a</h3>
+    <h3 style="color:red">My Telegram1 : https://t.me/bestblockchaindevelop</h3>
+    <h3 style="color:red">My Gmail : louistalent0123@gmail.com</h3>
 </div>
 <br/>
 
-<hr/>
 - 🌱 Development for a new world with me
 - 👻 I’m looking for <span style="color:green">Client</span> to work with <span style="color:red">Blockchain</span> and <span style="color:red">web</span> <span style="color:red">Unity3D</span>
 - 💬 Ask me about web and blockchain and Unity3D development
