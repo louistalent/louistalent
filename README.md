@@ -20,8 +20,8 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
         <h3 style="color:red">My Gmail : louistalent0123@gmail.com</h3>
     </p>
 </p>
-<br/>
 
+#### Please Read
 - 🌱 Development for a new world with me
 - 👻 I’m looking for <span style="color:green">Client</span> to work with <span style="color:red">Blockchain</span> and <span style="color:red">web</span> <span style="color:red">Unity3D</span>
 - 💬 Ask me about web and blockchain and Unity3D development
