@@ -13,7 +13,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 #### Work Together
 
 <p align="left" >
-    <img align="left" style="display:flex" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
+    <!-- <img align="left" style="display:flex" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" /> -->
     <p>
         <h3 style="color:red">My Gmail : louistalent0123@gmail.com</h3>
     </p>
