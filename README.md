@@ -15,8 +15,6 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 <p align="left" >
     <img align="left" style="display:flex" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
     <p>
-        <h3 style="color:red">My Skype : live:.cid.57323f23b950525a</h3>
-        <h3 style="color:red">My Telegram : https://t.me/bestblockchaindevelop</h3>
         <h3 style="color:red">My Gmail : louistalent0123@gmail.com</h3>
     </p>
 </p>
