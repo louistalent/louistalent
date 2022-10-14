@@ -1,4 +1,4 @@
-### Hello Sir 👋
+### Hello Friends 👋
 
 I am a Senior Full-Stack developer.
 I have over 2 years of experience in web & blockchain technology development and IT consult.
