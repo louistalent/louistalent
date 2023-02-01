@@ -18,7 +18,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
         <h3 style="color:red">My Gmail : topdevlouistalent@gmail.com</h3>
     </p>
     <p>
-        <h3 style="color:red">My Telegram : https://t.me/bestblockchaindevelop</h3>
+        <h3 style="color:red">My Telegram : https://t.me/goodmandev</h3>
     </p>
 </p>
 
