@@ -21,8 +21,6 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
         <h4 style="color:red">My Telegram : https://t.me/goodmandev</h4>
     </p>
 </p>
-<br/>
-<br/>
 
 #### Please Read
 - 🌱 Development for a new world with me
