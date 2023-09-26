@@ -1,7 +1,7 @@
 ### Hello Friends 👋
 
 I am a Senior Full-Stack developer.
-I have over 2 years of experience in web & blockchain technology development and IT consult.
+I have over 5 years of experience in web & blockchain technology development and IT consult.
 
 Passionate about launching, developing, and maintaining web and mobile projects requiring a
 broad yet experienced skills. Intuitive problem-solving skills and proficient in front and
@@ -15,10 +15,10 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 <p align="left" >
     <!-- <img align="left" style="display:flex" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" /> -->
     <p>
-        <h3 style="color:red">My Gmail : topdevlouistalent@gmail.com</h3>
+        <h4 style="color:red">My Gmail : topdevlouistalent@gmail.com</h4>
     </p>
     <p>
-        <h3 style="color:red">My Telegram : https://t.me/goodmandev</h3>
+        <h4 style="color:red">My Telegram : https://t.me/goodmandev</h4>
     </p>
 </p>
 
@@ -30,7 +30,7 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 #### Please Read
 - 🌱 Development for a new world with me
-- 👻 I’m looking for <span style="color:green">Client</span> to work with <span style="color:red">Blockchain</span> and <span style="color:red">web</span> <span style="color:red">Unity3D</span>
+- 👻 I’m looking for <span style="color:green">Client</span> to work with <span style="color:red">Web</span> and Blockchain <span style="color:red">and Unity3D</span>
 - 💬 Ask me about web and blockchain and Unity3D development
 - 😄 Blockchain is my best skill
 - 👯‍♀️ Let's work with me.
