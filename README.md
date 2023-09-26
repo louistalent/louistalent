@@ -24,10 +24,6 @@ Nowadays I passionate about blockchain technologies so that I'm mainly focusing 
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-
 #### Please Read
 - 🌱 Development for a new world with me
 - 👻 I’m looking for <span style="color:green">Client</span> to work with <span style="color:red">Web</span> and Blockchain <span style="color:red">and Unity3D</span>
